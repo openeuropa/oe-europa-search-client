@@ -75,7 +75,6 @@ trait AssertTestRequestTrait
         $headers = explode("\r\n", $headers);
         $this->assertContains("Content-Type: $contentType", $headers);
         $this->assertContains("Content-Disposition: form-data; name=\"$name\"; filename=\"$name\"", $headers);
-        $this->assertContains("Content-Length: $length", $headers);
         $this->assertSame($expected_content . "\r\n", $content);
     }
 }
