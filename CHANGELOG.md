@@ -1,11 +1,20 @@
 # Changelog
 
+## [1.0.0-alpha8](https://github.com/openeuropa/europa-search-client/tree/1.0.0-alpha8) (2024-09-02)
+
+[Full Changelog](https://github.com/openeuropa/europa-search-client/compare/1.0.0-alpha7...1.0.0-alpha8)
+
+**Merged pull requests:**
+
+- EWPP-4702: Fix AssertTestRequestTrait due to change in https://github… [\#85](https://github.com/openeuropa/europa-search-client/pull/85) ([hernani](https://github.com/hernani))
+
 ## [1.0.0-alpha7](https://github.com/openeuropa/europa-search-client/tree/1.0.0-alpha7) (2023-11-21)
 
 [Full Changelog](https://github.com/openeuropa/europa-search-client/compare/1.0.0-alpha6...1.0.0-alpha7)
 
 **Merged pull requests:**
 
+- Prepare release 1.0.0-alpha7 [\#84](https://github.com/openeuropa/europa-search-client/pull/84) ([imanoleguskiza](https://github.com/imanoleguskiza))
 - EWPP-3724: Allow null value for content property. [\#83](https://github.com/openeuropa/europa-search-client/pull/83) ([sergepavle](https://github.com/sergepavle))
 
 ## [1.0.0-alpha6](https://github.com/openeuropa/europa-search-client/tree/1.0.0-alpha6) (2023-07-20)
