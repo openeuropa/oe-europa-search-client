@@ -13,7 +13,6 @@ use PHPUnit\Framework\TestCase;
  */
 class SortTest extends TestCase
 {
-
     public function testSettersAndGetters(): void
     {
         $sort = (new Sort())

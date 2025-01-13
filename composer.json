@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.1",
         "ext-fileinfo": "*",
         "ext-json": "*",
         "league/container": "^3.3 || ^4.2",
@@ -25,13 +25,19 @@
     "require-dev": {
         "guzzlehttp/guzzle": "^7",
         "guzzlehttp/psr7": "^2",
-        "openeuropa/code-review": "^2.0.0-alpha6",
+        "openeuropa/code-review-library": "^1.0.0-alpha1",
         "phpunit/phpunit": "^9.4"
     },
     "suggest": {
         "guzzlehttp/guzzle": "PSR-18 HTTP Client implementation",
         "guzzlehttp/psr7": "PSR-17 HTTP Factories implementation"
     },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/openeuropa/code-review-library.git"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "OpenEuropa\\EuropaSearchClient\\": "./src/"
@@ -47,8 +53,9 @@
         "allow-plugins": {
             "cweagans/composer-patches": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
+            "php-http/discovery": false,
             "phpro/grumphp": true,
-            "php-http/discovery": false
+            "phpro/grumphp-shim": true
         }
     }
 }

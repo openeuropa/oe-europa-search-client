@@ -12,7 +12,6 @@ use PHPUnit\Framework\TestCase;
  */
 class MetadataTest extends TestCase
 {
-
     public function testSettersAndGetters(): void
     {
         $model = new Metadata();

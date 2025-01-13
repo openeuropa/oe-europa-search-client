@@ -10,7 +10,6 @@ namespace OpenEuropa\EuropaSearchClient\Model;
  */
 abstract class DocumentBase
 {
-
     /**
      * @var string
      */

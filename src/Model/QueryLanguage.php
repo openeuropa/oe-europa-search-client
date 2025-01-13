@@ -1,6 +1,6 @@
 <?php
 
-declare(strict_types = 1);
+declare(strict_types=1);
 
 namespace OpenEuropa\EuropaSearchClient\Model;
 
@@ -9,7 +9,6 @@ namespace OpenEuropa\EuropaSearchClient\Model;
  */
 class QueryLanguage
 {
-
     /**
      * The query language code.
      *

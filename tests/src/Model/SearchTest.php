@@ -1,6 +1,6 @@
 <?php
 
-declare(strict_types = 1);
+declare(strict_types=1);
 
 namespace OpenEuropa\Tests\EuropaSearchClient\Model;
 
@@ -14,7 +14,6 @@ use PHPUnit\Framework\TestCase;
  */
 class SearchTest extends TestCase
 {
-
     public function testSettersAndGetters(): void
     {
         $model = new Search();

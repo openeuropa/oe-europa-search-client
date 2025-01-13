@@ -9,5 +9,4 @@ namespace OpenEuropa\EuropaSearchClient\Exception;
  */
 class InvalidStatusCodeException extends \RuntimeException
 {
-
 }
