@@ -12,7 +12,6 @@ use PHPUnit\Framework\TestCase;
  */
 class InfoTest extends TestCase
 {
-
     public function testSettersAndGetters(): void
     {
         $info = new Info();
