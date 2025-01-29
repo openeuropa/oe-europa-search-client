@@ -1,11 +1,20 @@
 # Changelog
 
+## [1.0.0-alpha9](https://github.com/openeuropa/europa-search-client/tree/1.0.0-alpha9) (2025-01-29)
+
+[Full Changelog](https://github.com/openeuropa/europa-search-client/compare/1.0.0-alpha8...1.0.0-alpha9)
+
+**Merged pull requests:**
+
+- EWPP-4991: Ensure PHP8.3 compatibility. [\#88](https://github.com/openeuropa/europa-search-client/pull/88) ([nagyad](https://github.com/nagyad))
+
 ## [1.0.0-alpha8](https://github.com/openeuropa/europa-search-client/tree/1.0.0-alpha8) (2024-09-02)
 
 [Full Changelog](https://github.com/openeuropa/europa-search-client/compare/1.0.0-alpha7...1.0.0-alpha8)
 
 **Merged pull requests:**
 
+- EWPP-0000: Prepare release-1.0.0-alpha8. [\#86](https://github.com/openeuropa/europa-search-client/pull/86) ([hernani](https://github.com/hernani))
 - EWPP-4702: Fix AssertTestRequestTrait due to change in https://github… [\#85](https://github.com/openeuropa/europa-search-client/pull/85) ([hernani](https://github.com/hernani))
 
 ## [1.0.0-alpha7](https://github.com/openeuropa/europa-search-client/tree/1.0.0-alpha7) (2023-11-21)
