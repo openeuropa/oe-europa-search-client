@@ -1,4 +1,11 @@
-# Changelog
+# Change Log
+
+## [1.0.0-alpha10](https://github.com/openeuropa/europa-search-client/tree/1.0.0-alpha10) (2025-02-26)
+[Full Changelog](https://github.com/openeuropa/europa-search-client/compare/1.0.0-alpha9...1.0.0-alpha10)
+
+**Merged pull requests:**
+
+- EWPP-4991: Update Symfony to 7.x. [\#90](https://github.com/openeuropa/europa-search-client/pull/90) ([gorsky87](https://github.com/gorsky87))
 
 ## [1.0.0-alpha9](https://github.com/openeuropa/europa-search-client/tree/1.0.0-alpha9) (2025-01-29)
 
@@ -6,6 +13,7 @@
 
 **Merged pull requests:**
 
+- Prepare release 1.0.0-alpha9. [\#89](https://github.com/openeuropa/europa-search-client/pull/89) ([sergepavle](https://github.com/sergepavle))
 - EWPP-4991: Ensure PHP8.3 compatibility. [\#88](https://github.com/openeuropa/europa-search-client/pull/88) ([nagyad](https://github.com/nagyad))
 
 ## [1.0.0-alpha8](https://github.com/openeuropa/europa-search-client/tree/1.0.0-alpha8) (2024-09-02)
